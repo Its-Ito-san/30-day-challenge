@@ -1,2 +1,2 @@
 # 30-day-challenge
-Everyday from March I've to push something to my github.
+Everyday from March I've to commit something to my github.
